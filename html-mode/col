@@ -1,0 +1,4 @@
+# name: bootstrap column
+# key: col
+# --
+<div class="col-${1:md}-${2:4}$3">$0</div>

@@ -1,0 +1,6 @@
+#name: bootstrap nav
+#key: nav
+# --
+<ul class="nav nav-${1:tabs}">
+  <li role="presentation" class="active"><a href="#">$0</a></li>
+</ul>

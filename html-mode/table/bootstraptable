@@ -1,0 +1,6 @@
+#name: bootstrap table
+#key: table
+# --
+<table class="table">
+  $0
+</table>

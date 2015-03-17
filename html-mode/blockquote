@@ -1,0 +1,7 @@
+#name: bootstrap blockquote
+#key: blockquote
+# --
+<blockquote${1: class="blockquote-reverse"}>
+  $2
+  <footer>$3</footer>
+</blockquote>$0

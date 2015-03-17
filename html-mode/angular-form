@@ -1,0 +1,6 @@
+#name: angular form
+#key: form
+# --
+<form name="form" novalidate>
+  $0
+</form>

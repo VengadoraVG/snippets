@@ -1,0 +1,6 @@
+#name: angular form
+#key: form
+# --
+<form ng-controller="$1" name="$2" novalidate>
+  $0
+</form>

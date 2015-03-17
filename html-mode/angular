@@ -1,0 +1,16 @@
+#name: lets angular!
+#key: lets-jam
+# --
+<!DOCTYPE html>
+
+<html ng-app="${3:app}">
+  <head>
+    <meta charset="utf-8" />
+    <title>$1</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"> </script>
+    <script type="text/javascript" src="$2.js"></script>
+  </head>
+
+  <body>$0
+  </body>
+</html>

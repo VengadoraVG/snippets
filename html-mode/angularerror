@@ -1,0 +1,4 @@
+#name: angular error informer
+#key: error
+# --
+<span ng-show="${1:formName}.${2:textbox}.$error.${3:required}">$0</span>

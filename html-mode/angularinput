@@ -1,0 +1,4 @@
+#name: angular input
+#key: input
+# --
+<input type="${1:text}" name="$2" ${3:ng-model="$4"} $0required />

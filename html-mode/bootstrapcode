@@ -1,0 +1,4 @@
+#name: bootstrap code
+#key: code
+# --
+<code>$1</code>$0

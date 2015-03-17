@@ -1,0 +1,12 @@
+#name: bootstrap dropdown
+#key: dropdown
+# --
+<div class="dropdown">
+  <button class="btn btn-default dropdown-toggle" type="button" id="$1" data-toggle="dropdown" aria-expanded="true">
+    $2
+    <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">$3</a></li>
+  </ul>
+</div>
